@@ -7,7 +7,7 @@ Run the code.
 
 There will be a pop gui window with a riddle.
 
-Answer the riddle in one to two words.
+Answer the riddle in one word.
 
 If your answer is correct then you move to the next riddle.
 
