@@ -1,5 +1,5 @@
 # Riddle-Me-This
-This project is an interactive Python Game where the user has to guess the right answer in one to two words to a set of riddles.
+This project is an interactive Python Game where the user has to guess the right answer in one word to a set of riddles.
 
 How To Play :
 
